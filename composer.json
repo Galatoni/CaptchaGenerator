@@ -1,0 +1,14 @@
+{
+    "name": "derekling/CaptchaGenerator",
+    "description": "description_text",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Derek Ling",
+            "email": "galatoni@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "3.8.x-dev"
+    }
+}

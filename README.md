@@ -28,9 +28,7 @@ $obj->getSolution(); //returns solution to captcha
 
 ?>
 
-Making use of $_SESSION variable to store solution and comparing
-with input.
-By making use of the $_SESSION variable, the solution can be stored
+By making use of the session variables, the solution can be stored
 for later comparison.
 
 Creating a new Captcha OVERWRITES the existing one and changes

@@ -30,6 +30,8 @@ $obj->getSolution(); //returns solution to captcha
 
 Making use of $_SESSION variable to store solution and comparing
 with input.
+By making use of the $_SESSION variable, the solution can be stored
+for later comparison.
 
 Creating a new Captcha OVERWRITES the existing one and changes
 the solution.
@@ -41,3 +43,6 @@ __construct($length = 8. $difficulty = 10)
 
 Length should be between 1 and 8
 Difficulty should be between 1 and 10
+
+Any suggestions regarding improvements please contact me.
+

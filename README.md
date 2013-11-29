@@ -1,7 +1,7 @@
 CaptchaGenerator
 ================
 
-Font 'Helve Cursive' by toto (to22to@gmail.com)
+Font 'Helve Cursive' by toto (http://www.dafont.com/helve-cursive.font)
 
 A simple PHP class for the production of a captcha. Example available.
 
